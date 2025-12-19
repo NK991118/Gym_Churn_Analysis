@@ -153,4 +153,4 @@ EDA 단계에서 변수 간 관계를 해석하고 시각화하는 작업을 진
 ## 9️⃣ 그 외 관련 자료
 - [🔗 팀 프로젝트 원본 저장소](https://github.com/skn-ai14-250409/SKN14-2nd-4Team)
 - [🔗 발표 자료](https://drive.google.com/file/d/1eFg3TQmWeCfFf6YsN0DBpJzEdmJ4xx-0/view?usp=sharing)
-- **[📄 포트폴리오(PDF)] ### 추가 필요**
+- [🔗 포트폴리오(PDF)](https://drive.google.com/file/d/1vS0vytFNFGCiZdN7D9C2grw8MtyOFMbU/view?usp=sharing)
